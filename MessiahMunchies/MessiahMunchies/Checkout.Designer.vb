@@ -24,39 +24,69 @@ Partial Class Checkout
     Private Sub InitializeComponent()
         btnBack = New Button()
         btnPlaceOrder = New Button()
+        Orders = New ListBox()
+        txtCheckout = New TextBox()
         SuspendLayout()
         ' 
         ' btnBack
         ' 
-        btnBack.Location = New Point(324, 884)
+        btnBack.Location = New Point(133, 323)
+        btnBack.Margin = New Padding(1)
         btnBack.Name = "btnBack"
-        btnBack.Size = New Size(188, 58)
+        btnBack.Size = New Size(77, 21)
         btnBack.TabIndex = 0
         btnBack.Text = "Go Back"
         btnBack.UseVisualStyleBackColor = True
         ' 
         ' btnPlaceOrder
         ' 
-        btnPlaceOrder.Location = New Point(518, 884)
+        btnPlaceOrder.Location = New Point(213, 323)
+        btnPlaceOrder.Margin = New Padding(1)
         btnPlaceOrder.Name = "btnPlaceOrder"
-        btnPlaceOrder.Size = New Size(188, 58)
+        btnPlaceOrder.Size = New Size(77, 21)
         btnPlaceOrder.TabIndex = 1
         btnPlaceOrder.Text = "Place Order"
         btnPlaceOrder.UseVisualStyleBackColor = True
         ' 
+        ' Orders
+        ' 
+        Orders.FormattingEnabled = True
+        Orders.ItemHeight = 15
+        Orders.Location = New Point(106, 100)
+        Orders.Name = "Orders"
+        Orders.Size = New Size(226, 184)
+        Orders.TabIndex = 2
+        ' 
+        ' txtCheckout
+        ' 
+        txtCheckout.Enabled = False
+        txtCheckout.Font = New Font("Segoe UI", 15F)
+        txtCheckout.Location = New Point(169, 38)
+        txtCheckout.Name = "txtCheckout"
+        txtCheckout.Size = New Size(100, 34)
+        txtCheckout.TabIndex = 3
+        txtCheckout.Text = "Checkout"
+        txtCheckout.TextAlign = HorizontalAlignment.Center
+        ' 
         ' Checkout
         ' 
-        AutoScaleDimensions = New SizeF(17F, 41F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1091, 1162)
+        ClientSize = New Size(449, 388)
+        Controls.Add(txtCheckout)
+        Controls.Add(Orders)
         Controls.Add(btnPlaceOrder)
         Controls.Add(btnBack)
+        Margin = New Padding(1)
         Name = "Checkout"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Checkout – Messiah Munchies"
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents btnBack As Button
     Friend WithEvents btnPlaceOrder As Button
+    Friend WithEvents Orders As ListBox
+    Friend WithEvents txtCheckout As TextBox
 End Class
