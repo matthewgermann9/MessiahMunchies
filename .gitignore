@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MessiahMunchies/FileContentIndex
+/.vs/MessiahMunchies/FileContentIndex/7b14e913-fa58-4f9e-8a06-ca9899d86691.vsidx
+/MessiahMunchies
+/MessiahMunchies/.vs/MessiahMunchies
+/MessiahMunchies/.vs/MessiahMunchies/FileContentIndex
+/MessiahMunchies/.vs/MessiahMunchies/FileContentIndex/e52ecef1-170f-4958-bbe7-61ded702f24b.vsidx
+/MessiahMunchies/.vs/MessiahMunchies/v17/ResourceExplorer
+/MessiahMunchies/.vs/MessiahMunchies/v17/ResourceExplorer/settings.json
+/MessiahMunchies/MessiahMunchies/obj/Debug/net8.0-windows
+/MessiahMunchies/MessiahMunchies/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.vb
+/MessiahMunchies/MessiahMunchies/obj/Debug/net8.0-windows/MessiahMunchies.sourcelink.json
