@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MessiahMunchies"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5732da76ea48068c506d0f81df907c9cfde9b5c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MessiahMunchies"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MessiahMunchies"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

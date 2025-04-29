@@ -5,15 +5,9 @@ Public Class Home
         Me.Hide()
         PrevOrders.Show()
     End Sub
-
-    Public Sub CloseAll()
-        Dim OpenForms() As Form = Application.OpenForms.Cast(Of Form).ToArray()
-        '.NET LINQ (Language Integrated Query) method ".Cast(Of T)"
-        For Each UserForm As Form In OpenForms
-            If UserForm IsNot Me Then
-                UserForm.Close()
-            End If
-        Next UserForm
-        Me.Close()
+    Private Sub btnNewOrder_Click(sender As Object, e As EventArgs) Handles btnNewOrder.Click
+        Me.Hide()
+        NewOrder.Show()
     End Sub
+
 End Class

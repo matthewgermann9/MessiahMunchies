@@ -28,29 +28,32 @@ Partial Class Checkout
         ' 
         ' btnBack
         ' 
-        btnBack.Location = New Point(324, 884)
+        btnBack.Location = New Point(191, 539)
+        btnBack.Margin = New Padding(2, 2, 2, 2)
         btnBack.Name = "btnBack"
-        btnBack.Size = New Size(188, 58)
+        btnBack.Size = New Size(111, 35)
         btnBack.TabIndex = 0
         btnBack.Text = "Go Back"
         btnBack.UseVisualStyleBackColor = True
         ' 
         ' btnPlaceOrder
         ' 
-        btnPlaceOrder.Location = New Point(518, 884)
+        btnPlaceOrder.Location = New Point(305, 539)
+        btnPlaceOrder.Margin = New Padding(2, 2, 2, 2)
         btnPlaceOrder.Name = "btnPlaceOrder"
-        btnPlaceOrder.Size = New Size(188, 58)
+        btnPlaceOrder.Size = New Size(111, 35)
         btnPlaceOrder.TabIndex = 1
         btnPlaceOrder.Text = "Place Order"
         btnPlaceOrder.UseVisualStyleBackColor = True
         ' 
         ' Checkout
         ' 
-        AutoScaleDimensions = New SizeF(17F, 41F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1091, 1162)
+        ClientSize = New Size(642, 709)
         Controls.Add(btnPlaceOrder)
         Controls.Add(btnBack)
+        Margin = New Padding(2, 2, 2, 2)
         Name = "Checkout"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Checkout – Messiah Munchies"
