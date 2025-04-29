@@ -28,29 +28,34 @@ Partial Class NewOrder
         ' 
         ' btnCheckout
         ' 
-        btnCheckout.Location = New Point(386, 906)
+        btnCheckout.Anchor = AnchorStyles.None
+        btnCheckout.Location = New Point(812, 942)
+        btnCheckout.Margin = New Padding(2)
         btnCheckout.Name = "btnCheckout"
-        btnCheckout.Size = New Size(188, 58)
+        btnCheckout.Size = New Size(111, 35)
         btnCheckout.TabIndex = 0
         btnCheckout.Text = "Checkout"
         btnCheckout.UseVisualStyleBackColor = True
         ' 
         ' btnHome
         ' 
-        btnHome.Location = New Point(594, 906)
+        btnHome.Anchor = AnchorStyles.None
+        btnHome.Location = New Point(934, 942)
+        btnHome.Margin = New Padding(2)
         btnHome.Name = "btnHome"
-        btnHome.Size = New Size(306, 58)
+        btnHome.Size = New Size(180, 35)
         btnHome.TabIndex = 1
         btnHome.Text = "Return Home"
         btnHome.UseVisualStyleBackColor = True
         ' 
         ' NewOrder
         ' 
-        AutoScaleDimensions = New SizeF(17F, 41F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1151, 1185)
+        ClientSize = New Size(1898, 1024)
         Controls.Add(btnHome)
         Controls.Add(btnCheckout)
+        Margin = New Padding(2)
         Name = "NewOrder"
         StartPosition = FormStartPosition.CenterScreen
         Text = "New Order  – Messiah Munchies"
