@@ -4,9 +4,9 @@
         PrevOrders.Show()
     End Sub
 
+
     Private Sub btnNewOrder_Click(sender As Object, e As EventArgs) Handles btnNewOrder.Click
         Me.Hide()
         NewOrder.Show()
     End Sub
-
 End Class
