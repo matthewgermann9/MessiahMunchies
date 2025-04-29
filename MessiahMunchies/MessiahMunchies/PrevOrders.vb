@@ -1,14 +1,11 @@
 ﻿Public Class PrevOrders
-    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
-        Call Home.Close()
-    End Sub
 
     Private Sub btnViewReceipt_Click(sender As Object, e As EventArgs) Handles btnViewReceipt.Click
         ReceiptPreview.Show()
     End Sub
 
     Private Sub btnHome_Click(sender As Object, e As EventArgs) Handles btnHome.Click
-        Me.Hide()
+        Me.Close()
         Home.Show()
     End Sub
 
@@ -40,8 +37,7 @@
         End If
     End Sub
 
-    Private Sub PrevOrders_Closing(Sender As Object, e As FormClosingEventArgs) Handles Me.Closing
-        Home.Close()
+    Private Sub PrevOrders_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        Home.Show()
     End Sub
-
 End Class

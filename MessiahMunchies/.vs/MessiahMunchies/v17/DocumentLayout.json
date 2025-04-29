@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\neworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\neworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\prevorders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\prevorders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\prevorders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\prevorders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\checkout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\checkout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\checkout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\checkout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\neworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\neworder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\receiptpreview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\receiptpreview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\receiptpreview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\receiptpreview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|c:\\users\\miles\\source\\repos\\messiahmunchies\\messiahmunchies\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EFBEACD0-0CE6-49CE-AD15-77233983271B}|MessiahMunchies\\MessiahMunchies.vbproj|solutionrelative:messiahmunchies\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.vb",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Checkout.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\Checkout.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Checkout.vb",
+              "RelativeToolTip": "MessiahMunchies\\Checkout.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T23:04:19.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Checkout.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\Checkout.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Checkout.vb [Design]",
+              "RelativeToolTip": "MessiahMunchies\\Checkout.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T23:04:15.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrevOrders.vb",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\PrevOrders.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\PrevOrders.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\PrevOrders.vb",
+              "RelativeToolTip": "MessiahMunchies\\PrevOrders.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T22:51:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrevOrders.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\PrevOrders.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\PrevOrders.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\PrevOrders.vb [Design]",
+              "RelativeToolTip": "MessiahMunchies\\PrevOrders.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T22:51:30.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReceiptPreview.vb",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\ReceiptPreview.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\ReceiptPreview.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\ReceiptPreview.vb",
+              "RelativeToolTip": "MessiahMunchies\\ReceiptPreview.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T22:40:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiptPreview.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\ReceiptPreview.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\ReceiptPreview.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\ReceiptPreview.vb [Design]",
+              "RelativeToolTip": "MessiahMunchies\\ReceiptPreview.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T22:40:15.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Home.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\Home.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Home.vb [Design]",
+              "RelativeToolTip": "MessiahMunchies\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T00:28:31.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Home.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\Home.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\Home.vb",
+              "RelativeToolTip": "MessiahMunchies\\Home.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T00:29:03.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewOrder.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\NewOrder.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\NewOrder.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\NewOrder.vb [Design]",
+              "RelativeToolTip": "MessiahMunchies\\NewOrder.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T01:04:26.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewOrder.vb",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\NewOrder.vb",
+              "RelativeDocumentMoniker": "MessiahMunchies\\NewOrder.vb",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\MessiahMunchies\\MessiahMunchies\\NewOrder.vb",
+              "RelativeToolTip": "MessiahMunchies\\NewOrder.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-28T01:04:44.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

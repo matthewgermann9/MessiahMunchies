@@ -28,29 +28,34 @@ Partial Class Home
         ' 
         ' btnNewOrder
         ' 
-        btnNewOrder.Location = New Point(345, 857)
+        btnNewOrder.Anchor = AnchorStyles.None
+        btnNewOrder.Location = New Point(791, 495)
+        btnNewOrder.Margin = New Padding(2)
         btnNewOrder.Name = "btnNewOrder"
-        btnNewOrder.Size = New Size(259, 58)
+        btnNewOrder.Size = New Size(152, 35)
         btnNewOrder.TabIndex = 0
         btnNewOrder.Text = "&New Order"
         btnNewOrder.UseVisualStyleBackColor = True
         ' 
         ' btnPrevOrders
         ' 
-        btnPrevOrders.Location = New Point(624, 857)
+        btnPrevOrders.Anchor = AnchorStyles.None
+        btnPrevOrders.Location = New Point(955, 495)
+        btnPrevOrders.Margin = New Padding(2)
         btnPrevOrders.Name = "btnPrevOrders"
-        btnPrevOrders.Size = New Size(259, 58)
+        btnPrevOrders.Size = New Size(152, 35)
         btnPrevOrders.TabIndex = 1
         btnPrevOrders.Text = "&Previous Orders"
         btnPrevOrders.UseVisualStyleBackColor = True
         ' 
         ' Home
         ' 
-        AutoScaleDimensions = New SizeF(17F, 41F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1272, 1144)
+        ClientSize = New Size(1898, 1024)
         Controls.Add(btnPrevOrders)
         Controls.Add(btnNewOrder)
+        Margin = New Padding(2)
         Name = "Home"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Messiah Munchies"
