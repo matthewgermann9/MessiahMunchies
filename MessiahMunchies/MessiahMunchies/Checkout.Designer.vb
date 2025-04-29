@@ -24,6 +24,8 @@ Partial Class Checkout
     Private Sub InitializeComponent()
         btnBack = New Button()
         btnPlaceOrder = New Button()
+        Orders = New ListBox()
+        txtCheckout = New TextBox()
         SuspendLayout()
         ' 
         ' btnBack
@@ -46,6 +48,26 @@ Partial Class Checkout
         btnPlaceOrder.Text = "Place Order"
         btnPlaceOrder.UseVisualStyleBackColor = True
         ' 
+        ' Orders
+        ' 
+        Orders.FormattingEnabled = True
+        Orders.ItemHeight = 15
+        Orders.Location = New Point(106, 100)
+        Orders.Name = "Orders"
+        Orders.Size = New Size(226, 184)
+        Orders.TabIndex = 2
+        ' 
+        ' txtCheckout
+        ' 
+        txtCheckout.Enabled = False
+        txtCheckout.Font = New Font("Segoe UI", 15F)
+        txtCheckout.Location = New Point(169, 38)
+        txtCheckout.Name = "txtCheckout"
+        txtCheckout.Size = New Size(100, 34)
+        txtCheckout.TabIndex = 3
+        txtCheckout.Text = "Checkout"
+        txtCheckout.TextAlign = HorizontalAlignment.Center
+        ' 
         ' Checkout
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
@@ -58,8 +80,11 @@ Partial Class Checkout
         StartPosition = FormStartPosition.CenterScreen
         Text = "Checkout – Messiah Munchies"
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents btnBack As Button
     Friend WithEvents btnPlaceOrder As Button
+    Friend WithEvents Orders As ListBox
+    Friend WithEvents txtCheckout As TextBox
 End Class
